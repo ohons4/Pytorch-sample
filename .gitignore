@@ -5,6 +5,7 @@ __pycache__/       # バイトコードディレクトリ
 # 仮想環境
 env/
 venv/
+myenv/
 .venv/
 ENV/
 ENV.*/
